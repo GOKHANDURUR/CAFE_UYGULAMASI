@@ -1,0 +1,22 @@
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\bin\Debug\Cafe uygulamasi.exe.config
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\bin\Debug\Cafe uygulamasi.exe
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\bin\Debug\Cafe uygulamasi.pdb
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.AssemblyReference.cache
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe_uygulamasi.Form1.resources
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe_uygulamasi.Properties.Resources.resources
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.GenerateResource.cache
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.exe
+C:\Users\gokha\source\repos\Cafe uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.pdb
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.exe
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.pdb
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\bin\Debug\Cafe uygulamasi.exe.config
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\bin\Debug\Cafe uygulamasi.exe
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\bin\Debug\Cafe uygulamasi.pdb
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe_uygulamasi.Form1.resources
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe_uygulamasi.Properties.Resources.resources
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.GenerateResource.cache
+C:\Users\gokha\Desktop\Cafe_Uygulamasi\Cafe uygulamasi\obj\Debug\Cafe uygulamasi.csproj.CoreCompileInputs.cache
